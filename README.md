@@ -115,16 +115,12 @@ streamlit run Regression.py
 ## Technologies Used
 
 - Python 3.12
-- TensorFlow 2.x
+- TensorFlow 
 - Pandas
 - NumPy
 - Scikit-learn
 - Streamlit
 - TensorBoard
-
-## License
-
-MIT
 
 ## Author
 
