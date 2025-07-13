@@ -122,10 +122,6 @@ streamlit run Regression.py
 - Streamlit
 - TensorBoard
 
-## License
-
-MIT
-
 ## Author
 
 Omar
