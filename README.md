@@ -9,6 +9,9 @@ This project uses deep learning models to:
 2. Estimate a customer's salary 
 based on various features like credit score, geography, gender, age, tenure, balance, etc.
 
+## Demo
+![Demo Video](demo/Classification_demo.gif)
+
 ## Features
 
 - Two Deep Learning models built with TensorFlow/Keras:
