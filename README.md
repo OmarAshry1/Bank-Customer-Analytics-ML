@@ -10,8 +10,8 @@ This project uses deep learning models to:
 based on various features like credit score, geography, gender, age, tenure, balance, etc.
 
 ## Links
-[Classification - Churn Prediction](https://bank-customer-classification.streamlit.app/)
-[Regression - Estimated Salary Prediction](https://bank-customer-analytics-regression.streamlit.app/)
+- [Classification - Churn Prediction](https://bank-customer-classification.streamlit.app/)
+- [Regression - Estimated Salary Prediction](https://bank-customer-analytics-regression.streamlit.app/)
 ## Demo
 ![Demo Video](demo/Classification_demo.gif)
 
